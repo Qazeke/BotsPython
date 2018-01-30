@@ -13,7 +13,7 @@ def pir_mode (bot, update, chat_id):
             # camera.authoCam(bot,update,chat_id)
             intentos = intentos + 1
             if (intentos > 50):
-                print("Me cago en Dios en el puto sensor de los cojones, ostias putas ya, este insulto ocupa mas que el codigo del puto commit de los cojones")
+                print("es")
                 return
 	    time.sleep(0.5) #Buzzer turns on for 0.5 sec
         else:
@@ -21,5 +21,5 @@ def pir_mode (bot, update, chat_id):
             intentos = intentos + 1
             print(intentos)
             if (intentos > 20):
-                print("Hasta nunca hijo de la gran puta") # lo dejo
+                print("") # lo dejo
                 return
